@@ -6,7 +6,7 @@ My name is Gabriel Davidson. I'm a Unity game developer with a passion for gamep
 
 I'm currently working on my university capstone project: a 2.5D dungeon crawler called **Realms of Chaos**!
 
-Please check out my portfolio for more information about my current, previous, and notable project experiences: [Portfolio]([url](https://gabriel-davidson-porfolio.webflow.io/))
+Please check out my portfolio for more information about my current, previous, and notable project experiences: [Portfolio](https://gabriel-davidson-porfolio.webflow.io/)
 
 <!--
 **gabedvdsn/gabedvdsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
