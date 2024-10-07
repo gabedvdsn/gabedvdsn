@@ -2,6 +2,9 @@
 
 My name is Gabriel Davidson. I'm a Unity game developer with a passion for gameplay scripting!
 
+![image](https://github.com/user-attachments/assets/bb4c66ea-614a-4929-a98c-cea50b02d3c2)
+
+
 #### I'm currently working my university capstone project, a 2.5D dungeon crawler called **Realms of Chaos**!
 
 <!--
