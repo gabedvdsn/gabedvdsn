@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Gabriel Davidson. I'm a Unity game developer with a passion for gameplay scripting!
+
+#### I'm currently working my university capstone project, a 2.5D dungeon crawler called **Realms of Chaos**!
+
 <!--
 **gabedvdsn/gabedvdsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
