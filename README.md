@@ -4,7 +4,7 @@
 
 My name is Gabriel Davidson. I'm a Unity game developer with a passion for gameplay scripting!
 
-### [Portfolio](https://gabriel-davidson-porfolio.webflow.io/)
+#### [Portfolio](https://gabriel-davidson-porfolio.webflow.io/)
 
 Please check out my portfolio for more information about my current, previous, and notable project experiences!
 
@@ -12,7 +12,7 @@ Please check out my portfolio for more information about my current, previous, a
 
 I'm currently working on my university capstone project: a 2.5D dungeon crawler called **Realms of Chaos**!
 
-### 🎮 My favorite games
+#### 🎮 My favorite games
 
 - Dota 2
 - Minecraft
