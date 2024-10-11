@@ -4,7 +4,7 @@
 
 My name is Gabriel Davidson. I'm a Unity game developer with a passion for gameplay scripting!
 
-#### [Portfolio](https://gabriel-davidson-porfolio.webflow.io/)
+#### 📖 [Portfolio](https://gabriel-davidson-porfolio.webflow.io/)
 
 Please check out my portfolio for more information about my current, previous, and notable project experiences!
 
