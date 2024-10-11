@@ -4,11 +4,20 @@
 
 My name is Gabriel Davidson. I'm a Unity game developer with a passion for gameplay scripting!
 
-Please check out my portfolio for more information about my current, previous, and notable project experiences: [Portfolio](https://gabriel-davidson-porfolio.webflow.io/)
+### [Portfolio](https://gabriel-davidson-porfolio.webflow.io/)
+
+Please check out my portfolio for more information about my current, previous, and notable project experiences!
 
 #### 🔭 What I'm up to
 
 I'm currently working on my university capstone project: a 2.5D dungeon crawler called **Realms of Chaos**!
+
+### 🎮 My favorite games
+
+- Dota 2
+- Minecraft
+- Super Smash Bros (Wii)
+- Stardew Valley
 
 <!--
 **gabedvdsn/gabedvdsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
