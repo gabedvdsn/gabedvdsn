@@ -14,6 +14,7 @@ I'm currently working on my university capstone project: a 2.5D dungeon crawler 
 
 #### 🎮 My favorite games
 
+- Marvel Rivals
 - Dota 2
 - Minecraft
 - Super Smash Bros (Wii)
