@@ -9,7 +9,9 @@ My name is Gabriel Davidson. I'm a Unity game developer with a passion for gamep
 Please check out my portfolio for more information about my current, previous, and notable project experiences!
 
 #### 🔭 What I'm up to
-**School:** I am currently working with a team of 3 others to develop a 2D dungeon crawner called **Banish The Light**. Our goal is to create a very immersive, intense, yet thoughtful game to compete in the IEEE game awards competition later this year.
+**School:** I am currently working with a team of 3 others to develop a 2D dungeon crawner called **Banish The Light**. Our goal is to create a very immersive, intense, yet thoughtful game to compete in the IEEE game awards competition later this year. 
+
+My role in this project will be creating interesting and immersive procedurally generated dungeons.
 
 **Other:** I am also currently working on a modular, composition-centric [Gameplay Ability System Framework](https://github.com/gabedvdsn/FESGAS/tree/main) using UniTask to create light-weight ability behavior runtimes (based on Unreal Engine's built-in GAS).
 
